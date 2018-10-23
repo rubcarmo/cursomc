@@ -34,10 +34,7 @@ public class FieldMessage implements Serializable {
 		this.message = message;
 	}
 
-	public static long getSerialversionuid() {
-		return serialVersionUID;
-	}
-	
+
 	
 
 }
