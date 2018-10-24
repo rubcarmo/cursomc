@@ -16,7 +16,6 @@ import com.rjesus.cursomc.domain.Endereco;
 import com.rjesus.cursomc.domain.enums.TipoCliente;
 import com.rjesus.cursomc.dto.ClienteDTO;
 import com.rjesus.cursomc.dto.ClienteNewDTO;
-import com.rjesus.cursomc.repositories.CidadeRepository;
 import com.rjesus.cursomc.repositories.ClienteRepository;
 import com.rjesus.cursomc.repositories.EnderecoRepository;
 import com.rjesus.cursomc.services.exceptions.DataIntegrityException;
